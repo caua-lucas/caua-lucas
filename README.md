@@ -106,3 +106,8 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
   />
 
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/caua-lucas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/caua-lucas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caua-lucas/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
