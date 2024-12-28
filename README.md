@@ -98,7 +98,7 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180px" 
+    height="150px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=caua-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -106,7 +106,7 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="100px" 
+      height="150px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
