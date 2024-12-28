@@ -107,8 +107,4 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
 
 </p>
  </div>
-<div align="center">
 
-  ![Snake animation](https://github.com/caua-lucas/caua-lucas/blob/output/github-contribution-grid-snake.svg)
-
-</div>
