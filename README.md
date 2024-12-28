@@ -1,4 +1,4 @@
-## Oi, bem-vindo ao meu perfil!
+### Oi, bem-vindo ao meu perfil!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos de tecnologia e contribuições na área de TI, sempre com dedicação e foco em aprendizado contínuo.
 
