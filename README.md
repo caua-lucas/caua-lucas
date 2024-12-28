@@ -1,8 +1,12 @@
-### Oi, bem-vindo ao meu perfil!
+### Olá, bem-vindo ao meu perfil!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos de tecnologia e contribuições na área de TI, sempre com dedicação e foco em aprendizado contínuo.
 
+<br>
+<br>
 🎓 Estudante de Graduação em Gestão de TI.
+<br>
+<br>
 <div> 
   <a href = "caual5397@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-lucas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
