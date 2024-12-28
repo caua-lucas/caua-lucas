@@ -1,4 +1,5 @@
 ## Oi, bem-vindo ao meu perfil!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos de tecnologia e contribuições na área de TI, sempre com dedicação e foco em aprendizado contínuo.
 
 🎓 Estudante de Graduação em Gestão de TI.
@@ -93,18 +94,32 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=caua-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150px" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
- </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<div align="center"><br>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{caua-lucas}/count.svg" /></p> 
+<br></div>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
