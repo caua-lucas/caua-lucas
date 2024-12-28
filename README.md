@@ -109,5 +109,6 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
  </div>
 <div align="center">
 
-  ![Snake animation](https://github.com/Jeferson9086/Jeferson9086/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/caua-lucas/caua-lucas/blob/output/github-contribution-grid-snake.svg)
 
+</div>
