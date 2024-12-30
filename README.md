@@ -1,8 +1,13 @@
-### Olá, bem-vindo ao meu perfil!
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos de tecnologia e contribuições na área de TI, sempre com dedicação e foco em aprendizado contínuo.
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+  <h1>🌟 Olá, bem-vindo ao meu perfil! 🌟</h1>
+</div>
 
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+### 🧑🏽‍💻 Um pouquinho sobre mim:
+
+<p>Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos de tecnologia e contribuições na área de TI, sempre com dedicação e foco em aprendizado contínuo.</p>
+
 <br>
 🎓 Estudante de Graduação em Gestão de TI.
 <br>
@@ -91,6 +96,13 @@ Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqu
 
 <br/>
 <br/>
+
+### 🏆 Prêmios, Cursos e Certificações
+
+Descrição   | Instituição   | Ano | Tipo
+--------- | --------- | ------ | ------
+🏅 Curso de Wordpress | Curso em Vídeo | 2023 | Certificação
+🏅 Curso de WooCommerce | Curso em Vídeo | 2024 | Certificação
 
 ### 📊 Estatísticas
 
