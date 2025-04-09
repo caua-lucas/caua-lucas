@@ -120,22 +120,11 @@ Descrição   | Instituição   | Ano | Tipo
 
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="160px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caua-lucas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="100px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
 
 
 </p>
