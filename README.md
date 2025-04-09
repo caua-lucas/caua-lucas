@@ -127,15 +127,6 @@ Descrição   | Instituição   | Ano | Tipo
  </div>
 
 
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <div>
 <div align="center"><br>
 <br><p align="centre"><b>👥 Contador de Visitantes</b></p>  
