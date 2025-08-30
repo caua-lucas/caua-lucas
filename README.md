@@ -117,9 +117,11 @@ Descrição   | Instituição   | Ano | Tipo
 
 
 
-<div>
-<div align="center"><br>
-<br><p align="centre"><b>👥 Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{caua-lucas}/count.svg" /></p> 
-<br></div>
+[![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=caua-lucas&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
