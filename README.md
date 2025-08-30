@@ -9,7 +9,7 @@
 <p>Eu sou Cauã Lucas, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos de tecnologia e contribuições na área de TI, sempre com dedicação e foco em aprendizado contínuo.</p>
 
 <br>
-🎓 Estudante de Graduação em Gestão de TI.
+🎓 Formado em Graduação em Gestão de TI.
 <br>
 <br>
 <div> 
@@ -115,16 +115,6 @@ Descrição   | Instituição   | Ano | Tipo
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines=Quando+penso+que+cheguei+ao+meu+limite+descubro+que+tenho+for%C3%A7as+para+ir+al%C3%A9m.;–+Ayrton+Senna+(1960-1994))](https://git.io/typing-svg)
 
-
-
-
-
-### 📊 Estatísticas
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-  
- </div>
 
 
 <div>
