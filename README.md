@@ -113,7 +113,8 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 Curso de Wordpress | Curso em Vídeo | 2023 | Certificação
 🏅 Curso de WooCommerce | Curso em Vídeo | 2024 | Certificação
 
-![Typing SVG](https://readme-typing-svg.demolab.com?v=5&font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&background=000000&multiline=true&width=780&lines=Quando+penso+que+cheguei+ao+meu+limite+descubro+que+tenho+for%C3%A7as+para+ir+al%C3%A9m.&lines=–+Ayrton+Senna+%281960-1994%29)
+![Typing SVG](https://readme-typing-svg.demolab.com?v=6&font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&background=000000&multiline=true&width=780&lines=Quando+penso+que+cheguei+ao+meu+limite;&lines=descubro+que+tenho+for%C3%A7as+para+ir+al%C3%A9m.&lines=–+Ayrton+Senna+%281960-1994%29)
+
 
 
 
