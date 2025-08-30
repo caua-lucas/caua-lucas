@@ -115,6 +115,7 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 Graduação em Gestão de TI | FAPAM | 2025 | Diploma
 
 
+<br />
 
 [![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=caua-lucas&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
