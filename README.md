@@ -113,15 +113,8 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 Curso de Wordpress | Curso em Vídeo | 2023 | Certificação
 🏅 Curso de WooCommerce | Curso em Vídeo | 2024 | Certificação
 🏅 Graduação em Gestão de TI | FAPAM | 2025 | Diploma
+🏅 Pós-Graduação em Engenharia de Software | PUC MINAS | 2025 | Em andamento
 
-
-<br />
-
-[![Rodolfo's github stats](https://github-readme-stats.vercel.app/api?username=caua-lucas&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-lucas&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
